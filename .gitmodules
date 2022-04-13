@@ -1,0 +1,12 @@
+[submodule "submodules/b.i.o."]
+	path = submodules/b.i.o.
+	url = ../../h-2/b.i.o..git
+[submodule "submodules/seqan"]
+	path = submodules/seqan
+	url = ../../seqan/seqan
+[submodule "submodules/shrinkwrap"]
+	path = submodules/shrinkwrap
+	url = ../../jonathonl/shrinkwrap
+[submodule "submodules/htslib"]
+	path = submodules/htslib
+	url = ../../samtools/htslib
